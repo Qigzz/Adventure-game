@@ -303,3 +303,4 @@ class meeting_girl:
 game = meeting_girl()
 game.describe_what_is_happening()
 game.place_of_start()
+
